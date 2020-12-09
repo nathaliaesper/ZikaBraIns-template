@@ -1,6 +1,6 @@
 # ZikaBraIns-template
 
-Brain MRI template created to preprocess and analyze resting-state functional magnetic resonance imaging in infants with mcirocephaly realated to Zika Virus infection.
+Brain MRI template created to preprocess and analyze resting-state functional magnetic resonance imaging in infants with microcephaly related to Zika Virus infection.
 
 When referencing the ZikaBraIns template, please include the bibliographical referente to the paper below, and, if possible, include the GitHub link for this repository.
 
